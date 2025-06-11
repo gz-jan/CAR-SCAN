@@ -1,4 +1,4 @@
-# CAR-SCAN
+# CAR-SCAN 第二版
 
 一个简单的 Android 二维码扫描应用，使用 Jetpack Compose 和 CameraX 开发。
 
@@ -10,7 +10,7 @@
 - 支持权限管理
 
 ## 技术栈
-
+FF
 - Kotlin
 - Jetpack Compose
 - CameraX
